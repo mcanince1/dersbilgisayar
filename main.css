@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;400&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+.htp h1{
+    color: rgb(250, 250, 250);
+    background-color: rgb(5, 46, 87);
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+    font-family: 'Lato', sans-serif;;
+    font-weight: 200;
+}
+.title{
+    margin:50px;
+    width: 40%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+}
+
+
+.uk-margin-form h1{
+    font-family: 'Lato', sans-serif;;
+    font-weight: 800;
+    
+}
+
+.form  {
+    font-family: 'Lato', sans-serif;;
+    font-weight: 400;
+    
+    position: absolute;
+    left: 50%;
+    top: 15%;
+    transform: translate(-50%, -50%);
+
+}
+.form input  {
+    font-family: 'Lato', sans-serif;;
+    font-weight: 400;
+    position: absolute;
+    margin-bottom: 10px;
+    left: 50%;
+    top: 100%;
+    transform: translate(-50%, 50%);
+
+}
+
+.result {
+    font-family: 'Lato', sans-serif;;
+    font-weight: 300;
+    margin-top: 25px;
+    position: absolute;
+    top: 60%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+}
+.button1{
+  
+
+    font-family: 'Lato', sans-serif;;
+    font-weight: 500;
+    
+    
+}
+
